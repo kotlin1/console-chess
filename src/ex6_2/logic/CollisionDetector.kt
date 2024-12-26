@@ -2,7 +2,6 @@ package list_5.ex6_2.logic
 
 import list_5.ex6_2.utils.Coords
 import list_5.ex6_2.board.Board
-import list_5.ex6_2.pieces.Knight
 import kotlin.math.abs
 
 class CollisionDetector(private val board: Board) {
